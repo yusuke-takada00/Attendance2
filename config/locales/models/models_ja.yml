@@ -14,3 +14,10 @@ ja:
           department: 所属
           basic_time: 基本時間
           work_time: 実働時間
+        attendance:
+          worked_on: 日付
+          started_at: 出勤時間
+          finished_at: 退勤時間
+          note: 備考
+          user: ユーザーID
+          
